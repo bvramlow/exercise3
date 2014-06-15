@@ -24,6 +24,9 @@ Ext.application({
     requires: [
         'Ext.MessageBox'
     ],
+    views: [
+        'MyContainer'
+    ],
     icon: {
         57: 'resources/icons/Icon.png',
         72: 'resources/icons/Icon.png',
@@ -43,6 +46,7 @@ Ext.application({
 
     launch: function() {
         Ext.Msg.alert('Application Launch', 'Success!');
+        Ext.create('MyApp.view.MyContainer', {fullscreen: true});
     }
 
 });

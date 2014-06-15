@@ -5,6 +5,28 @@
         "component": true,
         "controller": true,
         "resource": true,
+        "4809cd7e-2a45-41f0-9428-1635af79f3f5": {
+            "id": "4809cd7e-2a45-41f0-9428-1635af79f3f5",
+            "cn": [
+                {
+                    "id": "e076655b-041e-480a-aa3a-3e4624ab366a"
+                },
+                {
+                    "id": "e26e9978-1654-42bb-bccd-27b5130b233e",
+                    "cn": [
+                        {
+                            "id": "5d621cfc-ddce-47d9-b22a-5a7644a695f6"
+                        },
+                        {
+                            "id": "e1f6a079-5b31-4e20-81e4-11a97c921788"
+                        },
+                        {
+                            "id": "418d8ac0-a17f-4f6b-ab6a-fb5cbd1b3fe1"
+                        }
+                    ]
+                }
+            ]
+        },
         "29859df5-3a22-4e05-9b55-62a32a15c909": {
             "id": "29859df5-3a22-4e05-9b55-62a32a15c909"
         },
@@ -14,18 +36,19 @@
     },
     "tabState": {
         "openTabs": [
-            "application"
+            "application",
+            "4809cd7e-2a45-41f0-9428-1635af79f3f5"
         ]
     },
     "canvasState": {
         "topInstance": null
     },
     "inspectorState": {
-        "topInstance": "application",
-        "selectedInstance": "application"
+        "topInstance": "4809cd7e-2a45-41f0-9428-1635af79f3f5",
+        "selectedInstance": "e26e9978-1654-42bb-bccd-27b5130b233e"
     },
     "codeState": {
-        "topInstance": "application"
+        "topInstance": "4809cd7e-2a45-41f0-9428-1635af79f3f5"
     },
     "editMode": "code",
     "userSettings": {

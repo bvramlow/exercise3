@@ -35,7 +35,9 @@
     "upgradeVersion": 300000000004,
     "framework": "touch23",
     "viewOrderMap": {
-        "view": [],
+        "view": [
+            "4809cd7e-2a45-41f0-9428-1635af79f3f5"
+        ],
         "store": [],
         "controller": [],
         "model": [],

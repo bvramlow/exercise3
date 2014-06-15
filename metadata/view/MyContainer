@@ -1,0 +1,81 @@
+{
+    "type": "Ext.Container",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "MyContainer"
+    },
+    "designerId": "4809cd7e-2a45-41f0-9428-1635af79f3f5",
+    "cn": [
+        {
+            "type": "Ext.TitleBar",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "top",
+                "title": "This IS SPARTA!!!"
+            },
+            "designerId": "e076655b-041e-480a-aa3a-3e4624ab366a"
+        },
+        {
+            "type": "Ext.tab.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "bottom": null,
+                "centered": true,
+                "container|animation": "slide",
+                "docked": "bottom"
+            },
+            "designerId": "e26e9978-1654-42bb-bccd-27b5130b233e",
+            "cn": [
+                {
+                    "type": "Ext.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "title": "Tab 1"
+                    },
+                    "designerId": "5d621cfc-ddce-47d9-b22a-5a7644a695f6"
+                },
+                {
+                    "type": "Ext.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "title": "Tab 2"
+                    },
+                    "designerId": "e1f6a079-5b31-4e20-81e4-11a97c921788"
+                },
+                {
+                    "type": "Ext.Container",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "title": "Tab 3"
+                    },
+                    "designerId": "418d8ac0-a17f-4f6b-ab6a-fb5cbd1b3fe1"
+                }
+            ]
+        }
+    ]
+}

@@ -649,7 +649,8 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.viewport.WindowsPhone": [
     "Ext.viewport.WP"
   ],
-  "MyApp.view.Main": []
+  "MyApp.view.Main": [],
+  "MyApp.view.MyContainer": []
 });
 Ext.ClassManager.addNameAliasMappings({
   "Ext.AbstractComponent": [],
@@ -1381,5 +1382,6 @@ Ext.ClassManager.addNameAliasMappings({
   "Ext.viewport.WindowsPhone": [],
   "MyApp.view.Main": [
     "widget.main"
-  ]
+  ],
+  "MyApp.view.MyContainer": []
 });
