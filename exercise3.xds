@@ -1,0 +1,50 @@
+{
+    "name": "exercise3",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.4.84",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "http://localhost/arch101/mobile/lab/exercise3/",
+        "exportPath": "/Applications/XAMPP/xamppfiles/htdocs/arch101/mobile/lab/exercise3/build/temp/production/MyApp/sencha-compiler/app",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "webBuild",
+            "display": "Build web app"
+        }
+    },
+    "xdsVersion": "3.0.4",
+    "xdsBuild": 1386,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "29859df5-3a22-4e05-9b55-62a32a15c909",
+            "28a445bd-92a3-46f3-beda-8ed0093944f9"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
